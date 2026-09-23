@@ -1,2 +1,1 @@
-line1 : Hello 
-line2: feature-edit
+Line 1: Hello
